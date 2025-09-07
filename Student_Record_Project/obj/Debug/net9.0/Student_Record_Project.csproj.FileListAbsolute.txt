@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Student_Record_Project\Student_Record_Project\bin\Debug\net9.0\Student_Record_Project.exe
+C:\Users\admin\source\repos\Student_Record_Project\Student_Record_Project\bin\Debug\net9.0\Student_Record_Project.deps.json
+C:\Users\admin\source\repos\Student_Record_Project\Student_Record_Project\bin\Debug\net9.0\Student_Record_Project.runtimeconfig.json
+C:\Users\admin\source\repos\Student_Record_Project\Student_Record_Project\bin\Debug\net9.0\Student_Record_Project.dll
+C:\Users\admin\source\repos\Student_Record_Project\Student_Record_Project\bin\Debug\net9.0\Student_Record_Project.pdb
+C:\Users\admin\source\repos\Student_Record_Project\Student_Record_Project\obj\Debug\net9.0\Student_Record_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Student_Record_Project\Student_Record_Project\obj\Debug\net9.0\Student_Record_Project.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Student_Record_Project\Student_Record_Project\obj\Debug\net9.0\Student_Record_Project.AssemblyInfo.cs
+C:\Users\admin\source\repos\Student_Record_Project\Student_Record_Project\obj\Debug\net9.0\Student_Record_Project.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Student_Record_Project\Student_Record_Project\obj\Debug\net9.0\Student_Record_Project.dll
+C:\Users\admin\source\repos\Student_Record_Project\Student_Record_Project\obj\Debug\net9.0\refint\Student_Record_Project.dll
+C:\Users\admin\source\repos\Student_Record_Project\Student_Record_Project\obj\Debug\net9.0\Student_Record_Project.pdb
+C:\Users\admin\source\repos\Student_Record_Project\Student_Record_Project\obj\Debug\net9.0\Student_Record_Project.genruntimeconfig.cache
+C:\Users\admin\source\repos\Student_Record_Project\Student_Record_Project\obj\Debug\net9.0\ref\Student_Record_Project.dll
