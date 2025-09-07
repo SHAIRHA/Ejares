@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Student_Record_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C25C16B-7EB1-4940-82C7-D089C9E239DC}|Student_Record_Project\\Student_Record_Project.csproj|c:\\users\\admin\\source\\repos\\student_record_project\\student_record_project\\.gitignore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C25C16B-7EB1-4940-82C7-D089C9E239DC}|Student_Record_Project\\Student_Record_Project.csproj|solutionrelative:student_record_project\\.gitignore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C25C16B-7EB1-4940-82C7-D089C9E239DC}|Student_Record_Project\\Student_Record_Project.csproj|c:\\users\\admin\\source\\repos\\student_record_project\\student_record_project\\student_record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C25C16B-7EB1-4940-82C7-D089C9E239DC}|Student_Record_Project\\Student_Record_Project.csproj|solutionrelative:student_record_project\\student_record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C25C16B-7EB1-4940-82C7-D089C9E239DC}|Student_Record_Project\\Student_Record_Project.csproj|c:\\users\\admin\\source\\repos\\student_record_project\\student_record_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C25C16B-7EB1-4940-82C7-D089C9E239DC}|Student_Record_Project\\Student_Record_Project.csproj|solutionrelative:student_record_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Student_Record_Project\\Student_Record_Project\\.gitignore.cs",
+              "RelativeDocumentMoniker": "Student_Record_Project\\.gitignore.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Student_Record_Project\\Student_Record_Project\\.gitignore.cs",
+              "RelativeToolTip": "Student_Record_Project\\.gitignore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T11:11:46.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Student_Record_Project\\Student_Record_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Student_Record_Project\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Student_Record_Project\\Student_Record_Project\\Program.cs",
+              "RelativeToolTip": "Student_Record_Project\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T23:53:31.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student_Record.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Student_Record_Project\\Student_Record_Project\\Student_Record.cs",
+              "RelativeDocumentMoniker": "Student_Record_Project\\Student_Record.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\Student_Record_Project\\Student_Record_Project\\Student_Record.cs",
+              "RelativeToolTip": "Student_Record_Project\\Student_Record.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T04:39:06.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
